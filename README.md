@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<p align="left">Desenvolvedor em formação.<br>Focado em aprender e construir projetos úteis.<br>Estudando JavaScript | Python | Js<br>Buscando oportunidades para crescer e colaborar.</p>
+<p align="left">Desenvolvedor em formação.<br>Focado em aprender e construir projetos úteis.<br>Estudando Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />Script | Python | Js<br>Buscando oportunidades para crescer e colaborar.</p>
 
 ###
 
@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+ 
 </div>
 
 ###
