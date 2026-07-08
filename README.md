@@ -1,32 +1,71 @@
+```markdown
+<h1 align="center">Olá, eu sou Misael Alves </h1>
 
-<p align="left"></p>
+<h3 align="center">Desenvolvedor Back-end em formação | Python & Django</h3>
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+## Sobre mim
 
-###
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-<br clear="both">
+Atualmente estou focado em desenvolvimento **Back-end** utilizando **Python** e **Django**, desenvolvendo projetos para aprimorar minhas habilidades e construir um portfólio sólido.
 
-<p align="left">Desenvolvedor em formação.<br>Focado em aprender e construir projetos úteis.<br>Estudando Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />Script | Python | Js<br>Buscando oportunidades para crescer e colaborar.</p>
+Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Python/Django**.
 
-###
+---
 
-<h2 align="left">Linguagens e ferramentas</h2>
+## Tecnologias
 
-###
+<p align="left">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
- 
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-###
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+---
+
+## Atualmente estudando
+
+- Python
+- Django
+- Django ORM
+- PostgreSQL
+- Git e GitHub
+- HTML5
+- CSS3
+- Boas práticas de Back-end
+
+---
+
+## Projeto em desenvolvimento
+
+### Visionary Agenda
+
+Sistema web desenvolvido com Django para gerenciamento de agendamentos.
+
+- Autenticação de usuários
+- Cadastro de clientes
+- Cadastro de serviços
+- Agendamentos
+- Dashboard
+- PostgreSQL
+
+---
+
+## Objetivo
+
+Evoluir como Desenvolvedor Back-end, criando aplicações escaláveis, organizadas e seguindo boas práticas com Python e Django.
+```
