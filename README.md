@@ -68,7 +68,7 @@ Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-end Pyt
 
 ---
 
-<h2 align="left">🚀 Projeto em destaque</h2>
+<h2 align="left"> Projeto em destaque</h2>
 
 <strong>Visionary Agenda</strong>
 
@@ -90,7 +90,7 @@ Sistema web desenvolvido com Django para gerenciamento de agendamentos de profis
 
 ---
 
-<h2 align="left">🎯 Objetivo</h2>
+<h2 align="left"> Objetivo</h2>
 
 Me tornar um Desenvolvedor Back-end especializado em Python e Django, desenvolvendo aplicações web modernas, seguras e escaláveis.
 
