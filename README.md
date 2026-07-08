@@ -57,14 +57,14 @@ Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-end Pyt
 
 <h2 align="left">Atualmente estudando</h2>
 
-- 🐍 Python
-- 🌐 Django
-- 🗄️ PostgreSQL
-- 🔗 Django ORM
-- 🔐 Autenticação de usuários
-- 📝 CRUD
-- 🌿 Git e GitHub
-- 🎨 HTML5 & CSS3
+-  Python
+-  Django
+-  PostgreSQL
+-  Django ORM
+-  Autenticação de usuários
+-  CRUD
+-  Git e GitHub
+-  HTML5 & CSS3
 
 ---
 
