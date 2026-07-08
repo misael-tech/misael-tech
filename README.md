@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou Misael Alves 👋</h1>
+<h1 align="center">Olá, eu sou Misael Alves </h1>
 
 <h3 align="center">Desenvolvedor Back-end em formação | Python & Django</h3>
 
@@ -10,9 +10,9 @@
 <p align="left">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).<br><br>
 
-🐍 Atualmente focado no desenvolvimento Back-end utilizando <strong>Python</strong> e <strong>Django</strong>.<br><br>
+Atualmente focado no desenvolvimento Back-end utilizando <strong>Python</strong> e <strong>Django</strong>.<br><br>
 
-📚 Estudando constantemente:
+Estudando constantemente:
 <ul>
   <li>Python</li>
   <li>Django</li>
@@ -22,14 +22,14 @@
   <li>HTML5 e CSS3</li>
 </ul>
 
-🚀 Desenvolvendo projetos reais para aprimorar minhas habilidades e construir um portfólio sólido.<br><br>
+Desenvolvendo projetos reais para aprimorar minhas habilidades e construir um portfólio sólido.<br><br>
 
-🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-end Python/Django.
+Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-end Python/Django.
 </p>
 
 ---
 
-<h2 align="left">🛠️ Linguagens e Ferramentas</h2>
+<h2 align="left">Linguagens e Ferramentas</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
@@ -55,7 +55,7 @@
 
 ---
 
-<h2 align="left">📚 Atualmente estudando</h2>
+<h2 align="left">Atualmente estudando</h2>
 
 - 🐍 Python
 - 🌐 Django
