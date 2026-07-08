@@ -5,10 +5,10 @@
 
 ---
 
-<h2 align="left">💻 Sobre mim</h2>
+<h2 align="left"> Sobre mim</h2>
 
 <p align="left">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).<br><br>
+ Estudante de Análise e Desenvolvimento de Sistemas (ADS).<br><br>
 
 Atualmente focado no desenvolvimento Back-end utilizando <strong>Python</strong> e <strong>Django</strong>.<br><br>
 
