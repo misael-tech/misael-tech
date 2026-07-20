@@ -74,19 +74,19 @@ Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-end Pyt
 
 Sistema web desenvolvido com Django para gerenciamento de agendamentos de profissionais.
 
-✔ Cadastro de usuários
+ Cadastro de usuários
 
-✔ Login e autenticação
+ Login e autenticação
 
-✔ Cadastro de clientes
+ Cadastro de clientes
 
-✔ Cadastro de serviços
+ Cadastro de serviços
 
-✔ Agendamentos
+ Agendamentos
 
-✔ Dashboard
+ Dashboard
 
-✔ PostgreSQL
+ PostgreSQL
 
 ---
 
