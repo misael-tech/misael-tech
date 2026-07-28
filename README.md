@@ -68,27 +68,7 @@ Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Back-end Pyt
 
 ---
 
-<h2 align="left"> Projeto em destaque</h2>
 
-<strong>Visionary Agenda</strong>
-
-Sistema web desenvolvido com Django para gerenciamento de agendamentos de profissionais.
-
- Cadastro de usuários
-
- Login e autenticação
-
- Cadastro de clientes
-
- Cadastro de serviços
-
- Agendamentos
-
- Dashboard
-
- PostgreSQL
-
----
 
 <h2 align="left"> Objetivo</h2>
 
