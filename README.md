@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Misael Alves 👋</h1>
+<h1 align="center">Olá, eu sou Misael Alves </h1>
 
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Back-end Python</h3>
 
@@ -21,7 +21,7 @@ Atualmente estou desenvolvendo minhas habilidades com **Python, Django e Django 
 
 Tenho buscado transformar meus estudos em **projetos práticos**, trabalhando com desenvolvimento de funcionalidades, autenticação, CRUDs, APIs, banco de dados, armazenamento de arquivos, versionamento e deploy.
 
-🎯 Meu objetivo é conquistar minha **primeira oportunidade como Desenvolvedor Back-end Python/Django Júnior**, continuando minha evolução através de projetos reais e desafios profissionais.
+ Meu objetivo é conquistar minha **primeira oportunidade como Desenvolvedor Back-end Python/Django Júnior**, continuando minha evolução através de projetos reais e desafios profissionais.
 
 ---
 
@@ -88,9 +88,9 @@ Tenho buscado transformar meus estudos em **projetos práticos**, trabalhando co
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
-### 📅 Sistema de Agenda
+###  Sistema de Agenda
 
 Aplicação web desenvolvida com Django para gerenciamento de serviços e agendamentos.
 
@@ -135,11 +135,11 @@ Projetos desenvolvidos para praticar o desenvolvimento de APIs utilizando **Djan
 
 ---
 
-## 🎓 Formação
+##  Formação
 
 **Análise e Desenvolvimento de Sistemas — ADS**
 
-📚 Cursando
+ Cursando
 
 ---
 
@@ -173,7 +173,7 @@ Quero fazer parte de uma equipe onde possa **aplicar meus conhecimentos, aprende
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <p align="left">
 
