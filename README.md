@@ -69,7 +69,7 @@ Tenho buscado transformar meus estudos em **projetos práticos**, trabalhando co
 
 ---
 
-## 📚 Conhecimentos
+##  Conhecimentos
 
 * 🐍 Python
 * 🌐 Desenvolvimento web com Django
@@ -143,7 +143,7 @@ Projetos desenvolvidos para praticar o desenvolvimento de APIs utilizando **Djan
 
 ---
 
-## 📈 Atualmente estudando
+##  Atualmente estudando
 
 Estou aprofundando meus conhecimentos em:
 
@@ -186,5 +186,5 @@ Quero fazer parte de uma equipe onde possa **aplicar meus conhecimentos, aprende
 ---
 
 <p align="center">
-  <strong>🚀 Estudando. Construindo. Evoluindo.</strong>
+  <strong> Estudando. Construindo. Evoluindo.</strong>
 </p>
