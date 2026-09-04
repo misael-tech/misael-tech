@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco no desenvolvimento **Back-end**.
 
@@ -71,20 +71,20 @@ Tenho buscado transformar meus estudos em **projetos práticos**, trabalhando co
 
 ##  Conhecimentos
 
-* 🐍 Python
-* 🌐 Desenvolvimento web com Django
-* 🔗 Desenvolvimento de APIs REST com Django REST Framework
-* 🗄️ Django ORM
-* 🐘 PostgreSQL
-* 🔐 Autenticação e gerenciamento de usuários
-* 👤 Permissões e controle de acesso
-* 📝 CRUD
-* 🔌 Integração e consumo de APIs
-* 📦 Serializers e validação de dados
-* 🗂️ Upload e armazenamento de arquivos
-* 🔧 Git e GitHub
-* 🚀 Deploy de aplicações
-* ☁️ Integração com Supabase Storage
+*  Python
+*  Desenvolvimento web com Django
+*  Desenvolvimento de APIs REST com Django REST Framework
+*  Django ORM
+*  PostgreSQL
+*  Autenticação e gerenciamento de usuários
+*  Permissões e controle de acesso
+*  CRUD
+*  Integração e consumo de APIs
+*  Serializers e validação de dados
+*  Upload e armazenamento de arquivos
+*  Git e GitHub
+*  Deploy de aplicações
+*  Integração com Supabase Storage
 
 ---
 
@@ -113,7 +113,7 @@ Aplicação web desenvolvida com Django para gerenciamento de serviços e agenda
 
 ---
 
-### 🔗 APIs REST
+###  APIs REST
 
 Projetos desenvolvidos para praticar o desenvolvimento de APIs utilizando **Django REST Framework**.
 
@@ -164,10 +164,10 @@ Estou aprofundando meus conhecimentos em:
 
 Busco minha primeira oportunidade na área de desenvolvimento como:
 
-**💼 Desenvolvedor Back-end Python Júnior**
-**💼 Desenvolvedor Django Júnior**
-**💼 Desenvolvedor Python Júnior**
-**💼 Estagiário de Desenvolvimento de Software**
+** Desenvolvedor Back-end Python Júnior**
+** Desenvolvedor Django Júnior**
+** Desenvolvedor Python Júnior**
+** Estagiário de Desenvolvimento de Software**
 
 Quero fazer parte de uma equipe onde possa **aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções reais**.
 
