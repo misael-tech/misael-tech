@@ -25,7 +25,7 @@ Tenho buscado transformar meus estudos em **projetos práticos**, trabalhando co
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 ### Back-end
 
@@ -160,7 +160,7 @@ Estou aprofundando meus conhecimentos em:
 
 ---
 
-## 🎯 Objetivo profissional
+##  Objetivo profissional
 
 Busco minha primeira oportunidade na área de desenvolvimento como:
 
